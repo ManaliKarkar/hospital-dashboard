@@ -1,14 +1,14 @@
-# hospital-dashboard
+# Hospital-dashboard
 This project showcases a Power BI dashboard designed for Papollo Hospitals to provide deep insights into hospital operations, patient trends, financials, and service quality. It is a data-driven tool for healthcare administrators to monitor, analyze, and make informed decisions that improve efficiency, cost control, and patient satisfaction.
 
-**Project Objective**
+##Project Objective
 The objective of this dashboard is to:
 
 Monitor hospital performance indicators such as bed utilization, patient discharge patterns, and doctor feedback.
 Analyze diagnosis trends and their impact on billing vs. insurance payouts.
 Help decision-makers optimize hospital operations, resource allocation, and patient care services using real-time and historical data.
 
-**Executive Summary**
+##Executive Summary
 This dashboard presents a consolidated view of key hospital performance indicators from Dec 2022 to March 2024, including:
 
 -Patient Admission & Discharge Trends
@@ -19,7 +19,7 @@ This dashboard presents a consolidated view of key hospital performance indicato
 -Diagnosis-wise Patient Count
 -Billing vs Health Insurance Amounts
 
-**Technologies Used**
+##Technologies Used
 
 - Power BI Desktop  
 - Power Query  
@@ -27,7 +27,7 @@ This dashboard presents a consolidated view of key hospital performance indicato
 - Custom Visuals and Themes  
 - Data Modeling
 
-**Key Insights**
+##Key Insights
 
 -Private Beds dominate occupancy, indicating patient preference or higher availability.
 -Viral Infections are the most frequent diagnosis (2,000+ patients), followed by Flu and Malaria.
